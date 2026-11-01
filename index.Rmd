@@ -1,0 +1,30 @@
+---
+title: "Wil's website"
+output: 
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
+---
+
+## About me
+
+Hi, I'm Wil! I'm a second-year MPH student in Epidemiology at the Columbia University Mailman School of Public Health.
+![](images/Headshot.jpg){width=40%}
+
+
+
+## [Resume](resume.html): 
+my education, research, and professional experience
+
+## [Dashboard](dashboard.html): 
+an interactive plotly dashboard of NYC restaurant inspection data
+
+##[About](about.html):
+about my favorite game
+
+
+## Contact
+Email: [wilcao0528@gmail.com](mailto:wilcao0528@gmail.com)
+
+GitHub: [Wil-Cao](https://github.com/Wil-Cao/) 
