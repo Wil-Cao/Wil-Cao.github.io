@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   right:
     - text: "Resume"
-      href: resume.html
+      href: Resume.html
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg

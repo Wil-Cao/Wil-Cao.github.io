@@ -1,5 +1,5 @@
 ---
-title: "dashboard"
+title: "NY NOAA Weather Dashboard (1981–2010)"
 output:
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -16,8 +16,6 @@ library(plotly)
 
 set.seed(1)
 ```
-
-## NOAA Weather Dashboard
 
 ```{r data, include=FALSE}
 data("ny_noaa")

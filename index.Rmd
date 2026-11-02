@@ -14,10 +14,10 @@ Hi, I'm Wil! I'm a second-year MPH student in Epidemiology at the Columbia Unive
 
 
 
-## [Resume](resume.html): 
+## [Resume](Resume.html): 
 My education, research, and professional experience
 
-## [Dashboard](dashboard.html): 
+## [Dashboard](Dashboard.html): 
 An interactive plotly dashboard of NY NOAA weather data (1981–2010)
 
 ## [About](about.html):
