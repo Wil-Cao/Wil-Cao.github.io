@@ -1,12 +1,14 @@
-name: "Yay internet!"
+name: "Wil's website"
 output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "Resume"
+      href: resume.html
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<wilcao0528@gmail.com>
+      href: mailto:wilcao0528@gmail.com
     - icon: fa-github fa-lg
       href: https://github.com/Wil-Cao/
 output:
