@@ -10,7 +10,7 @@ output:
 ## About me
 
 Hi, I'm Wil! I'm a second-year MPH student in Epidemiology at the Columbia University Mailman School of Public Health.
-![](images/Headshot.jpg){width=40%}
+![](images/headshot.jpg){width=40%}
 
 
 

@@ -1,0 +1,71 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
+---
+
+```{css, echo=FALSE}
+body {
+  font-size: 18px;
+}
+```
+
+## Education
+
+**Columbia University in the City of New York** <span style="float:right">Sep. 2025 – May 2027</span>  
+*Master of Public Health (MPH) in Epidemiology*, GPA: 3.84/4
+
+* Relevant courses: Applied Regression, Applied Epidemiologic Analysis, Cancer Epidemiology, Data Science (R), Relational Databases & SQL
+
+**Chongqing Medical University** <span style="float:right">Sep. 2020 – Jul. 2025</span>  
+*Bachelor of Medicine (B.Med.) in Preventive Medicine*, GPA: 3.64/4
+
+* Relevant courses: Epidemiology, Public Health Statistics, Advanced Medical Mathematics, Health Service Management
+
+## Research Experience
+
+**Columbia University**, Research Assistant <span style="float:right">May 2026 – Present</span>
+
+* Manage and analyze a cross-national cancer survey dataset (4,000+ participants across 80+ countries) in SPSS, including data cleaning, variable recoding, and development of reproducible syntax.
+* Conduct descriptive, stratified, and logistic regression analyses examining how rurality, income level, and treatment status relate to financial toxicity and unmet supportive care needs.
+* Translate statistical findings into clear insights, causal diagrams, and publication-ready tables and figures for dissemination.
+
+**Chongqing Medical University**, Research Assistant <span style="float:right">May 2023 – Oct. 2024</span>
+
+* Performed differential gene expression analysis to identify tumor types associated with BCAT2 expression.
+* Built Cox proportional hazards models to estimate hazard ratios and 95% CIs for the association between BCAT2 expression and disease-specific, progression-free, and overall survival.
+* First-author paper published in *Scientific Reports* (2024).
+
+**Chongqing Medical University**, Medical Communication Volunteer <span style="float:right">May 2024</span>
+
+* Published medical communication articles on the university's official account, including "Health Tips for Women: Ruptured Corpus Luteum."
+* Reviewed the literature and drafted articles to educate university students on commonly overlooked conditions, their warning signs, and when to seek medical care.
+
+## Professional Experience
+
+**Shanghai Baisheng Jinze Pharmaceutical Technology Co., Ltd.**, Clinical Research Intern <span style="float:right">Jun. 2026 – Aug. 2026</span>
+
+* Organized and cleaned clinical study data to support data quality review and project tracking for the Clinical Research Project Management team.
+* Conducted literature searches and synthesized published evidence on therapeutic areas and study designs to inform internal research planning.
+* Prepared concise research summaries and supporting materials to facilitate communication across the project team.
+
+**Xi'an Center for Disease Control and Prevention**, CDC Intern <span style="float:right">Sep. 2024 – Apr. 2025</span>
+
+* Organized epilepsy awareness campaigns by designing brochures, preparing lectures, and coordinating community outreach during the Basic Public Health and Chronic Disease Prevention rotation.
+
+**Yongchuan Hospital, Chongqing**, Clinical Rotation Intern <span style="float:right">Dec. 2023 – Apr. 2024</span>
+
+* Rotated through Neurosurgery, Nephrology & Rheumatology, Infectious Disease, Pediatrics, and Obstetrics/Breast/Thyroid; took patient histories, performed physical examinations, documented cases, and participated in case discussions.
+
+**Ning Nursing Hospital for Terminal Cancer Patients, Shaanxi Provincial People's Hospital**, Volunteer Social Worker <span style="float:right">Aug. 2022</span>
+
+* Maintained patient medication logs, monitored prescribing and dispensing of pain medications, and guided patients on proper medication use; made home visits to assess and document patients' health status.
+
+## Skills
+
+* **Technical:** R, SAS, SPSS, SQL, Python, Excel
+* **Languages:** Chinese (native), English (fluent)
+* **Certifications:** CITI Training in Human Subjects Protection and Social & Behavioral Research (SBR)
